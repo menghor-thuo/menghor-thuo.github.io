@@ -74,6 +74,12 @@
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
+
+  &.sticky {
+    @include breakpoint($large) {
+      top: calc(#{$masthead-height} + 1em);
+    }
+  }
 }
 
 /*
