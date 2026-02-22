@@ -30,7 +30,7 @@ Work experience
   * Fine-tuned a Large Language Model (LLM) to translate natural language instructions into ROS2 command sequences for robot control. Developed the model to interpret user intents, handle unstructured language variations, and generate executable ROS2 commands, enabling robots to execute complex tasks from diverse and ambiguous user inputs.
 
 * May 2023 -- July 2023: <strong>Full Stack Developper intern</strong> at Paris Partners Softwares
-  * Designed and implemented a customizable and scalable solution for clients, automating manual workflows and reducing staff workload and time.
+  * Reporting Management System: Development of a web application for automated report generation.
 
 <!-- * Summer 2015: Research Assistant
   * GitHub University
@@ -39,16 +39,16 @@ Work experience
   
 Skills
 ======
-* <strong>Libraries:</strong> NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Pytorch.
+* <strong>Libraries:</strong> NumPy, Pandas, Matplotlib, Seaborn, Scikit‑learn, TensorFlow, Keras, Pytorch.
 * <strong>Languages & Frameworks:</strong> Python, R, C, C++, HTML, CSS, JavaScript, SQL
-* <strong>Developper Tools & Technologies:<strong> VS code, Jupyter notebook, Linux, Latex, Git
-* <strong>Soft Skill<strong> Motivation, Problem-solving, Agility, Enthusiasm, Independent
+* <strong>Developper Tools & Technologies:</strong> VS code, Jupyter notebook, Linux, Latex, Git
+* <strong>Soft Skill:</strong> Motivation, Problem-solving, Agility, Enthusiasm, Independent
 
 Languages
 ======
 * <strong>Khmer:</strong> Native
 * <strong>English:</strong> Professional working proficiency
-* <strong>French:</strong> Professional working proficiency
+* <strong>French:</strong> DELF B2
 
 Achievements / Certificates
 ======
